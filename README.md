@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinnyofficial
+- 👋 Hi, I’m vinny
 - 👀 I’m interested for creating a program involving software as well as malicious malware 
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
